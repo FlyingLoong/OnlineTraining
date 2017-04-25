@@ -3,9 +3,8 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
-import { CalendarComponent } from 'angular2-fullcalendar/src/calendar/calendar'
-
 import { AppComponent } from './app.component';
+import { CalendarComponent } from 'angular2-fullcalendar/src/calendar/calendar'
 import { ClassScheduleComponent } from './components/class-schedule/class-schedule.component';
 
 @NgModule({
