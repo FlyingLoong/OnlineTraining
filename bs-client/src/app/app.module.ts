@@ -6,11 +6,13 @@ import { HttpModule } from '@angular/http';
 import { CalendarComponent } from 'angular2-fullcalendar/src/calendar/calendar'
 
 import { AppComponent } from './app.component';
+import { ClassScheduleComponent } from './components/class-schedule/class-schedule.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    CalendarComponent
+    CalendarComponent,
+    ClassScheduleComponent
   ],
   imports: [
     BrowserModule,
