@@ -7,6 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ClassScheduleComponent implements OnInit {
 
+  calendarOptions: Object = {
+    header: {
+      left: 'prev,next today',
+      center: 'title',
+      right: 'month,agendaWeek,agendaDay,listMonth'
+		},
+    fixedWeekCount: false
+  }
+
   constructor() { }
 
   ngOnInit() {
