@@ -13,6 +13,10 @@ export class ClassScheduleComponent implements OnInit {
       center: 'title',
       right: 'month,agendaWeek,agendaDay,listMonth'
 		},
+    dayClick: function(date, jsEvent, view) {
+      console.log(date.format());
+    },
+    defaultView: 'agendaWeek',
     fixedWeekCount: false
   }
 

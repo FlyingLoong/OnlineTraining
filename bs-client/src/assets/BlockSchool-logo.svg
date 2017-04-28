@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="484px" height="82px" viewBox="0 0 484 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-63.000000, -111.000000)">
+            <g id="Group-3" transform="translate(61.000000, 110.789323)">
+                <g id="Group" transform="translate(207.059665, 0.000000)">
+                    <rect id="Rectangle-4" fill="#00AFE9" x="7.02633533" y="56.9868259" width="25" height="25"></rect>
+                    <rect id="Rectangle-4" fill="#FFDC14" x="0.0263353329" y="28.9868259" width="25" height="25"></rect>
+                    <rect id="Rectangle-4" fill="#FF372C" x="14.0263353" y="0.986825892" width="25" height="25"></rect>
+                </g>
+                <text id="Block" font-family="ChronicleDeck-Semi, Chronicle Deck" font-size="80" font-weight="500" line-spacing="80" fill="#202B34">
+                    <tspan x="0.986429542" y="106.76">Block   </tspan>
+                </text>
+                <text id="School" font-family="ChronicleDeck-Semi, Chronicle Deck" font-size="80" font-weight="500" line-spacing="80" fill="#202B34">
+                    <tspan x="250.5" y="106.76">School</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
